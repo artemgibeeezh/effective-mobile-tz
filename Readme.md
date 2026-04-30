@@ -8,4 +8,4 @@
 - [Задание 2. Проектирование API](task2.md) — описание запроса  
   [Пример ответа (JSON)](task2.json)
 - [Задание 3. Архитектура PUSH-уведомлений](task3.md)
-- 🔗 [Ссылка на репозиторий](https://github.com/artemgibeezh/effective-mobile-tz)
+- 🔗 [Ссылка на репозиторий](https://github.com/artemgibeeezh/effective-mobile-tz)
